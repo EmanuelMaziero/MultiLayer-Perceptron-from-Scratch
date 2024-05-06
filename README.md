@@ -16,3 +16,17 @@ Graduando no último semestre de Engenharia de Telecomunicações.
 [![Generic badge](https://img.shields.io/badge/-Neural%20Networks-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/-Linear%20Algebra-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/-Differential%20Calculus-blue.svg)](https://shields.io/)
+
+### Como Usar
+1. Baixe os arquivos "mnist_train.csv" e "mnist_test.csv";
+2. Certifique-se de que todos os arquivos .m estão na mesma pasta;
+3. Mova os arquivos .csv para a pasta onde os arquivos .m estão;
+4. Execute o arquivo MNIST_train.m e verifique se os arquivos **b_1, b_2, b_out, w_1, w_2** e **w_out** foram criados (imagens serão geradas ao executar este script);
+5. Execute o arquivo MNIST_val.m, que utilizará os arquivos criados no passo 4.
+
+### How to Use
+1. Download the "mnist_train.csv" and "mnist_test.csv" files;
+2. Ensure that all .m files are in the same folder;
+3. Move the .csv files to the folder where the .m files are located;
+4. Run MNIST_train.m and check if the files **b_1, b_2, b_out, w_1, w_2**, and **w_out** were created (figures will be generated from running this script);
+5. Run MNIST_val.m, which will use the files created in step 4.
