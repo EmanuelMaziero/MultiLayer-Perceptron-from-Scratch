@@ -2,7 +2,7 @@
 
 Graduando no último semestre de Engenharia de Telecomunicações.
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelMaziero&repo=MultiLayer-Perceptron-from-Scratch&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/SEUUSERNAME/SEUREPOSITORIO](https://github.com/EmanuelMaziero/MultiLayer-Perceptron-from-Scratch/new/main?filename=README.md))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelMaziero&repo=MultiLayer-Perceptron-from-Scratch&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/EmanuelMaziero/MultiLayer-Perceptron-from-Scratch/new/main?filename=README.md)
 
 ### Conecte-se comigo
 
