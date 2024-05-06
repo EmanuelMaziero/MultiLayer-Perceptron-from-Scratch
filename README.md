@@ -17,6 +17,8 @@ Graduando no último semestre de Engenharia de Telecomunicações.
 [![Generic badge](https://img.shields.io/badge/-Linear%20Algebra-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/-Differential%20Calculus-blue.svg)](https://shields.io/)
 
+### [Dataset com os arquivos contendo as imagens para treinar a rede neural](https://drive.google.com/drive/folders/1pTG5a4QXBTPdMqXAZ1GaI89tnxx_P57M?usp=sharing)
+
 ### Como Usar
 1. Baixe os arquivos "mnist_train.csv" e "mnist_test.csv";
 2. Certifique-se de que todos os arquivos .m estão na mesma pasta;
