@@ -1,17 +1,15 @@
 # Emanuel Maziero
-
 Telecommunications Engineering, last semester.
 
-# MultiLayer Perceptron from Scratch in MATLAB for image classification
-
 ### Connect with me!
-
 [![Perfil DIO](https://img.shields.io/badge/-DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/emaanuelsmazieero/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:emaanuelmazieero@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/mazieroes/)
 
-### Skills
+# MultiLayer Perceptron from Scratch in MATLAB for image classification
+Simple MLP from scratch in MATLAB for the image classification task using the MNIST handwritten digits dataset.
 
+### Skills
 [![Generic badge](https://img.shields.io/badge/MATLAB-R2023a-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/-Neural%20Networks-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/-Linear%20Algebra-blue.svg)](https://shields.io/)
